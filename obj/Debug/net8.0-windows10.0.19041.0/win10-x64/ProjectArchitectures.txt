@@ -1,0 +1,1 @@
+C:\Users\toru_yoshida\Downloads\part4-exercise-start\WeatherClient.csproj;x64
